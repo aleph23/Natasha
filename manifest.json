@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "precedence": "high",
+  "config": {
+    "universal_overrides": "config/override/universal.json",
+    "providers": {
+      "gemini": "config/override/gemini_rules.json",
+      "claude": "config/override/claude_rules.json",
+      "roo": "config/override/roo_rules.json",
+      "cline": "config/override/cline_rules.json"
+    }
+  },
+  "default_persona": "personae/coding.md",
+  "skills_path": "skills/"
+}
