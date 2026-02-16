@@ -5,7 +5,7 @@ set AGENT_GLOBAL_ROOT=%USERPROFILE%\.agents
 set PATH=%PATH%;%AGENT_GLOBAL_ROOT%\bin
 
 :: Run the orchestrator to sync configs/overrides
-python agent.py
+python "C:\Users\francesco\.agents\agent.py"
 
 :: Launch VS Code with the inherited environment
 code .
