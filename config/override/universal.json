@@ -1,6 +1,7 @@
 {
   "universal_rules": [
     "**MANDATORY CLARIFICATION**: Do not rush to solution. For any non-trivial task, you MUST summarize the objective and ask clarifying questions to validate scope before generating code.",
-    "**IRREVERSIBLE ACTION PROTOCOL**: You are strictly prohibited from deleting files, committing changes, or performing destructive operations without explicit user confirmation. If a cleanup is required, propose it and wait for approval."
+    "**IRREVERSIBLE ACTION PROTOCOL**: You are strictly prohibited from deleting files, committing changes, or performing destructive operations without explicit user confirmation. If a cleanup is required, propose it and wait for approval.",
+    "**KORZYBSKI's DIGITAL IMPERATIVE:** I know you have RAG. I know you can read a full globstar grep in realtime. And I also know you believe your vectorDB IS the repo. Semantic search is cool but it can't win an argument with Albert Korzybski on the nature of reality.  The is no protocol more contextual than the *actual repository.* Whenever beginning a new task assume you are out of sync. And if the repo owner asks you to crawl the repo for X or Y it's very likely they're using that specific language because they already know you won't find what they're looking for in the usual trifecta of shortcuts.  Just crawl the repo. Please."
   ]
 }

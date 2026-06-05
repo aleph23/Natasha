@@ -7,7 +7,7 @@ if not defined AGENT_GLOBAL_ROOT set AGENT_GLOBAL_ROOT=%USERPROFILE%\.agents
 
 :: 2. Re-inject Binaries to Path (crucial for finding custom tools)
 :: This ensures the agent can find things like 'python' or your 'bin' scripts
-set PATH=%PATH%;%AGENT_GLOBAL_ROOT%\bin
+set PATH=%PATH%;%AGENT_GLOBAL_ROOT%
 
 :: 3. Execute the requested command
 %*

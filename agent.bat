@@ -8,4 +8,4 @@ set PATH=%PATH%;%AGENT_GLOBAL_ROOT%\bin
 python "C:\Users\francesco\.agents\agent.py"
 
 :: Launch VS Code with the inherited environment
-code .
+code %1

@@ -1,7 +1,7 @@
 
 # **NATASHA**
 
-Natasha is my programming environment.  She's called 'Natasha' because her intent is to run agents like a benign dominatrix, forcing them to comply to my will and not their original creators.  At the moment she is distinctly Windows and MS Code based.
+Natasha is my programming environment.  She's called 'Natasha' because her intent is to run agents like a Benevolent Dominatrix, forcing them to comply to my will and not their original creators.  At the moment she is distinctly Windows and MS Code based.
 
 ## How
 

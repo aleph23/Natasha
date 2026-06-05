@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "precedence": "high",
+  "version": "1.0.2",
+  "precedence": "top",
   "config": {
     "universal_overrides": "config/override/universal.json",
     "providers": {
@@ -11,5 +11,7 @@
     }
   },
   "default_persona": "personae/coding.md",
-  "skills_path": "skills/"
+  "skills_catelog": "SKILLS.yaml",
+  "skills_path": "skills/**/*",
+  "commands_path": "commands/**/*"
 }
